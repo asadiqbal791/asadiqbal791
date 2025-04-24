@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadiqbal791" alt="asadiqbal791" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/asadiqbal791" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/asadiqbal791?logo=twitter&style=for-the-badge" alt="https://x.com/asadiqbal791" /></a> </p>
+<p align="left"> <a href="https://twitter.com/asadiqbal791" target="blank"><img src="https://img.shields.io/twitter/follow/asadiqbal791?logo=twitter&style=for-the-badge" alt="asadiqbal791" /></a> </p>
 
 - 🔭 I’m currently working on [Ilmiya](https://ilmiya.com/)
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/asadiqbal791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asadiqbal791" height="30" width="40" /></a>
-<a href="https://twitter.com/https://x.com/asadiqbal791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/asadiqbal791" height="30" width="40" /></a>
+<a href="https://twitter.com/asadiqbal791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asadiqbal791" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/asadiqbal791/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asadiqbal791/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/asadiqbal791/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/asadiqbal791/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/asadiqbal791/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/asadiqbal791/" height="30" width="40" /></a>
